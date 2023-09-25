@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-shadow: none;
+}
+
+
+img {
+    opacity: 0.3;
+    position: absolute;
+    display: inline;
+    z-index:-1;
+    background-size: 100% 100% !important;
+    height: 113vh !important;
+
+ 
+  }
+section {
+    position: relative;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+i{
+    font-size:35px;
+    color:#50ceee;
+    padding-left:15px;
+    padding-top:15px;
+}
+ul li {
+    font-size:19px;
+}
+#onePage{
+    font-size:30px;
+    color:#50ceee
+}
+#active{
+    color:#50ceee;
+}
